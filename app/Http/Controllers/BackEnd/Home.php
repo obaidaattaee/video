@@ -5,7 +5,7 @@ namespace App\Http\Controllers\BackEnd;
 use App\Models\Comments;
 use App\Models\User;
 
-class Home extends BackEndController
+class Home extends AdminController
 {
     public function __construct(User $model)
     {

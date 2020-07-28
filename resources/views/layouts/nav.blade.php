@@ -3,7 +3,7 @@
         <div class="navbar-translate">
             <a class="navbar-brand" href="{{ route('frontend.landing') }}" rel="tooltip"
                title="Coded by Creative Tim" data-placement="bottom" >
-                5damt-web.com
+                obaida.com
             </a>
             <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
                     aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">

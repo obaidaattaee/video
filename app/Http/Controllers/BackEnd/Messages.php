@@ -7,7 +7,7 @@ use App\Mail\ReplayContact;
 use App\Models\Message;
 use Illuminate\Support\Facades\Mail;
 
-class Messages extends BackEndController
+class Messages extends AdminController
 {
 
     public function __construct(Message $model)

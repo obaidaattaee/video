@@ -1,11 +1,11 @@
 <?php
 
 namespace App\Http\Controllers\Backend;
-
+use App\Http\Controllers\Backend\AdminController ;
 use App\Http\Requests\Backend\Pages\Store;
 use App\Models\Page;
 
-class Pages extends BackEndController
+class Pages extends AdminController
 {
     public function __construct(Page $model)
     {

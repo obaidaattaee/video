@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Backend;
 use App\Http\Requests\Backend\Skills\Store;
 use App\Models\Skill;
 
-class Skills extends BackEndController
+class Skills extends AdminController
 {
     public function __construct(Skill $model)
     {

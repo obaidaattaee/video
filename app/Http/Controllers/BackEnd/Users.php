@@ -7,7 +7,7 @@ use App\Http\Requests\BackEnd\Users\Update;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 
-class Users extends BackEndController
+class Users extends AdminController
 {
     public function __construct(User $model)
     {

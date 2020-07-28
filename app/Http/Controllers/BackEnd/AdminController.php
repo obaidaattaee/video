@@ -5,7 +5,7 @@ namespace App\Http\Controllers\BackEnd;
 use App\Http\Controllers\Controller;
 use Illuminate\Database\Eloquent\Model;
 
-class BackEndController extends Controller
+class AdminController extends Controller
 {
 
     protected $model;

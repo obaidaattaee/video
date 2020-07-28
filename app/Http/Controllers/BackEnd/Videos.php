@@ -9,7 +9,7 @@ use App\Models\Skill;
 use App\Models\Tag;
 use App\Models\Video;
 
-class Videos extends BackEndController
+class Videos extends AdminController
 {
     use CommentTrait;
 

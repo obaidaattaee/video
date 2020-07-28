@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Backend;
 use App\Http\Requests\Backend\Tags\Store;
 use App\Models\Tag;
 
-class Tags extends BackEndController
+class Tags extends AdminController
 {
     public function __construct(Tag $model)
     {

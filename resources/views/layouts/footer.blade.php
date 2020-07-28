@@ -15,7 +15,7 @@
               ©
               <script>
                 document.write(new Date().getFullYear())
-              </script>, made with <i class="fa fa-heart heart"></i> 5dmat-web.com
+              </script>, made with <i class="fa fa-heart heart"></i> <strong>obaida attaee</strong>
             </span>
             </div>
         </div>

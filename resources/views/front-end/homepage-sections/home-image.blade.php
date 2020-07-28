@@ -3,7 +3,7 @@
     <div class="content-center">
         <div class="container">
             <div class="title-brand">
-                <h1 class="presentation-title">5damt-web.com</h1>
+                <h1 class="presentation-title">obaida attaee</h1>
                 <div class="fog-low">
                     <img src="/frontend/img/fog-low.png" alt="">
                 </div>
@@ -12,7 +12,7 @@
                 </div>
             </div>
             <h2 class="presentation-subtitle text-center">
-                Learn programming
+                laravel devloper
             </h2>
         </div>
     </div>

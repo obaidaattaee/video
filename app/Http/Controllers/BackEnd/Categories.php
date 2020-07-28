@@ -6,7 +6,7 @@ namespace App\Http\Controllers\Backend;
 use App\Http\Requests\BackEnd\Categories\Store;
 use App\Models\Category;
 
-class Categories extends BackEndController
+class Categories extends AdminController
 {
 
     public function __construct(Category $model)
